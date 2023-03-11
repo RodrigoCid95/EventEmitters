@@ -1,0 +1,10 @@
+{
+  "name": "event-emmiters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Rodrigo Cid",
+  "license": "ISC",
+  "types": "./index.d.ts"
+}
